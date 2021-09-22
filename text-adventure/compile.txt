@@ -1,0 +1,1 @@
+nasm -felf64 main.asm && gcc main.o -o txtadv && ./txtadv
